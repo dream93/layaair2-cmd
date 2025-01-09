@@ -1,6 +1,6 @@
 {
   "name": "dream-layaair2-cmd",
-  "version": "1.6.15.1",
+  "version": "1.6.15",
   "description": "layaair version 2 toolkit",
   "main": "layaair2-cmd.js",
   "scripts": {
@@ -52,5 +52,9 @@
     "layaair2-cmd"
   ],
   "author": "dream93",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dream93/layaair2-cmd.git"
+  }
 }
