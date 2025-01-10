@@ -16,7 +16,7 @@ layaair2-cmd是layaair 2.0的命令行工具，可以使用layaair2-cmd不打开
 
 ## 安装
 ```
-$ npm install layaair2-cmd -g
+$ npm install dream-layaair2-cmd -g
 ```
 
 

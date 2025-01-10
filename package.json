@@ -18,7 +18,7 @@
     "browserify": "^16.2.3",
     "commander": "^2.19.0",
     "del": "^3.0.0",
-    "gulp": "^4.0.2",
+    "gulp": "^3.9.1",
     "gulp-babel": "^8.0.0",
     "gulp-image": "^4.4.1",
     "gulp-jsonminify": "^1.1.0",
@@ -38,6 +38,9 @@
     "typescript": "^3.2.2",
     "vinyl-source-stream": "^2.0.0",
     "xmldom": "^0.3.0"
+  },
+  "overrides": {
+    "graceful-fs": "^4.2.11"
   },
   "bundledDependencies": [
     "browserify",
